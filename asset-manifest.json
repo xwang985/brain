@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/brain/static/css/main.5381d524.chunk.css",
+    "main.js": "/brain/static/js/main.fe7d06c5.chunk.js",
+    "main.js.map": "/brain/static/js/main.fe7d06c5.chunk.js.map",
+    "runtime-main.js": "/brain/static/js/runtime-main.b9e66656.js",
+    "runtime-main.js.map": "/brain/static/js/runtime-main.b9e66656.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/brain/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.53b13432.chunk.js": "/brain/static/js/2.53b13432.chunk.js",
+    "static/js/2.53b13432.chunk.js.map": "/brain/static/js/2.53b13432.chunk.js.map",
+    "index.html": "/brain/index.html",
+    "precache-manifest.36e8eaa43ca95fe7f1d1b4db989420ec.js": "/brain/precache-manifest.36e8eaa43ca95fe7f1d1b4db989420ec.js",
+    "service-worker.js": "/brain/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/brain/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5381d524.chunk.css.map": "/brain/static/css/main.5381d524.chunk.css.map",
+    "static/js/2.53b13432.chunk.js.LICENSE": "/brain/static/js/2.53b13432.chunk.js.LICENSE",
+    "static/media/App.css": "/brain/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e66656.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.53b13432.chunk.js",
+    "static/css/main.5381d524.chunk.css",
+    "static/js/main.fe7d06c5.chunk.js"
+  ]
+}
